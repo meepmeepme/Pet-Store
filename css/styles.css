@@ -1,0 +1,103 @@
+body{
+	background-color: mintcream;
+}
+
+#header{
+	height: 100px;
+	background-color: aqua;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+#all-pets{
+	background-color: darkviolet;
+}
+
+#fwooper{
+	margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+#occamy{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+#pygmy{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+#kneazle{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+#barn{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+#snow{
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    margin-left: 80px;
+	width:300px;
+	height:520px;
+	padding: 10px;
+	border-radius: 20px;
+	/*justify-content: center;*/
+    background-color: lime;
+}
+
+.pet{
+	display: inline-block;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+#pet-image{
+	width:200px;
+	height:200px;
+	padding: 10px;
+	/*border-radius: 20px;*/
+}
