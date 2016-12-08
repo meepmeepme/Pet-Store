@@ -1,6 +1,15 @@
 body{
-	background-color: lightgrey;
-	color: purple;
+	background-image: 	url('https://i.ytimg.com/vi/e4ngL2LYlzQ/maxresdefault.jpg');
+	color: #a1a122;
 	font-family: verdana;	
 	font-size: 40px;
+	background-color: #47005a;
+}
+.token{
+	margin: 25px;
+	height: 600px;
+	width: 400px;
+	background-image: url('https://i.ytimg.com/vi/e4ngL2LYlzQ/maxresdefault.jpg');
+	display: inline-block;
+	top: 0px;
 }
